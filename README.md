@@ -12,6 +12,7 @@ The dataset used in this project is sourced from Kaggle and contains the followi
   * Numerical features: sqft_living, sqft_lot, bedrooms, bathrooms, etc.
   * Categorical features: zipcode, view, condition, etc.
   * Target variable: price (house price in USD).
+  * Data: [Kaggle](https://www.kaggle.com/)
 # Project Workflow
 1. Data Preprocessing:
    * Handled missing values.
