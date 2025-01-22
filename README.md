@@ -29,4 +29,5 @@ The dataset used in this project is sourced from Kaggle and contains the followi
   * Programming Language: Python
   * Libraries: Keras, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
   * Environment: Jupyter Notebook / Python IDE
+  * The above written code was using Jupyter Notebook
 
