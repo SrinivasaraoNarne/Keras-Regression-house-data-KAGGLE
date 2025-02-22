@@ -1,14 +1,12 @@
 # Keras-Regression-house-data-KAGGLE
 This project demonstrates how to use a Keras-based Artificial Neural Network (ANN) to predict house prices using a dataset from Kaggle. The dataset includes features like square footage, number of bedrooms, bathrooms, location, and other property attributes.
-# Overview
+## Overview
 The project aims to build a regression model using Keras to predict house prices based on historical data. This project involves:
-
   * Data preprocessing and feature engineering.
   * Building and training a regression ANN model.
   * Evaluating the model's performance using metrics like Mean Squared Error (MSE) and R².
-# Dataset
+## Dataset
 The dataset used in this project is sourced from Kaggle and contains the following features:
-
   * Numerical features: sqft_living, sqft_lot, bedrooms, bathrooms, etc.
   * Categorical features: zipcode, view, condition, etc.
   * Target variable: price (house price in USD).
