@@ -11,7 +11,7 @@ The dataset used in this project is sourced from Kaggle and contains the followi
   * Categorical features: zipcode, view, condition, etc.
   * Target variable: price (house price in USD).
   * Data: [Kaggle](https://www.kaggle.com/)
-# Project Workflow
+## Project Workflow
 1. Data Preprocessing:
    * Handled missing values.
    * Applied feature scaling and normalization.
@@ -23,7 +23,7 @@ The dataset used in this project is sourced from Kaggle and contains the followi
    * Evaluated the model using metrics like MSE, RMSE, and R².
 4. Prediction:
    * Used the trained model to predict house prices on test data.
-# Technologies Used
+## Technologies Used
   * Programming Language: Python
   * Libraries: Keras, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
   * Environment: Jupyter Notebook / Python IDE
