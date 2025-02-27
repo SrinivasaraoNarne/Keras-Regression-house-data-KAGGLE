@@ -8,7 +8,7 @@ The project aims to develop a robust regression model using Keras, leveraging hi
 * Evaluating model performance using key metrics like Mean Squared Error (MSE) and R².
 * Deploying the model for future predictions.
 ## Dataset
-The dataset used in this project is sourced from Kaggle and contains the following features:
+The dataset used in this project is sourced from Kaggle and contains the following feature attributes:
   * Numerical features: sqft_living, sqft_lot, bedrooms, bathrooms, etc.
   * Categorical features: zipcode, view, condition, etc.
   * Target variable: price (house price in USD).
@@ -18,8 +18,10 @@ The dataset used in this project is sourced from Kaggle and contains the followi
    * Handled missing values.
    * Applied feature scaling and normalization.
    * Performed exploratory data analysis (EDA).
+   * Encoded categorical variables where necessary.
 2. Model Building:
    * Created an ANN with Keras for regression.
+   * Experimented with different architectures and activation functions.
    * Optimized hyperparameters such as learning rate, batch size, and number of layers.
 3. Evaluation:
    * Evaluated the model using metrics like MSE, RMSE, and R².
@@ -30,4 +32,5 @@ The dataset used in this project is sourced from Kaggle and contains the followi
   * Libraries: Keras, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
   * Environment: Jupyter Notebook / Python IDE
   * The above written code was using Jupyter Notebook
-
+## Acknowledgments
+Special thanks to Kaggle for providing the dataset and the open-source community for the tools and resources used in this project.
